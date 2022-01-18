@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8ebf589.css",
+    "main.js": "/static/js/main.face6384.js",
+    "static/media/yeet.jpg": "/static/media/yeet.1edfd5013dec06a89026.jpg",
+    "static/media/donita.jpeg": "/static/media/donita.818655610d8a6601b767.jpeg",
+    "static/media/mar.jpeg": "/static/media/mar.0dcbac75b3601317a74a.jpeg",
+    "static/media/cubanete.jpg": "/static/media/cubanete.882638ea56574d1de2b3.jpg",
+    "static/media/jair.jpeg": "/static/media/jair.d7e725c5e63d95dd3999.jpeg",
+    "index.html": "/index.html",
+    "main.e8ebf589.css.map": "/static/css/main.e8ebf589.css.map",
+    "main.face6384.js.map": "/static/js/main.face6384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ebf589.css",
+    "static/js/main.face6384.js"
+  ]
+}

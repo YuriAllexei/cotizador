@@ -1,0 +1,26 @@
+.tabla {
+  margin: 30px;
+  padding: 15px;
+}
+
+.active {
+  visibility: visible;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.tituloCot {
+  color: crimson;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.boton {
+  color: indianred;
+}
+.btn-outline-primary {
+  border-radius: 15%;
+  border-color: brown;
+}

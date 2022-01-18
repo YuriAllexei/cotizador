@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&family=Ubuntu+Mono:wght@700&display=swap");
+
+.card-body {
+  background-color: #87ceeb;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.card {
+  margin: 15px;
+}
+
+.video {
+  width: 100%;
+}
